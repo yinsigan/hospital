@@ -12,7 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
 
 //= require js/flot/jquery.flot.js
 //= require js/flot/jquery.flot.pie.js
@@ -37,9 +36,4 @@
 
 //= require js/pace/pace.min.js
 
-//= require  js/nprogress.js
-
 //= require flash.js
-
-
-
